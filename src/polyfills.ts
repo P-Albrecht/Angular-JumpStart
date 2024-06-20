@@ -69,3 +69,4 @@
   * Needed for: All but Chrome, Firefox, Edge, IE11 and Safari 10
   */
  // import 'intl';  // Run `npm install --save intl`.
+/**/
